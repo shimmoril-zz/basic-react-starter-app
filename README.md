@@ -1,4 +1,4 @@
-Ashleigh's Basic React Starter App
+Basic React Starter App
 -------------------------------------------------------------------------------
 Welcome!
 
